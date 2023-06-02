@@ -1,0 +1,28 @@
+{
+  "recommendation": [
+    {
+      "title": "Samantha",
+      "country": "Ukraine",
+      "image": "assets/images/image_1.png",
+      "price": 400
+    },
+    {
+      "title": "Valental",
+      "country": "UK",
+      "image": "assets/images/image_2.png",
+      "price": 440
+    },
+    {
+      "title": "Londida",
+      "country": "Canada",
+      "image": "assets/images/image_3.png",
+      "price": 480
+    },
+    {
+      "title": "Lochina",
+      "country": "Germany",
+      "image": "assets/images/img.png",
+      "price": 560
+    }
+  ]
+}
